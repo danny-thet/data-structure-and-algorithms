@@ -1,4 +1,4 @@
-import { compress } from './compress'
+import { compress } from '../compress'
 
 describe('compress', () => {
   it.each`
