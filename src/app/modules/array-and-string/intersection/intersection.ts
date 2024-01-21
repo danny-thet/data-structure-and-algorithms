@@ -1,7 +1,3 @@
-type Hash = {
-  num?: number
-}
-
 export const intersection = (a: [], b: []) => {
   const result: [] = []
   const aHash = new Set(a)
